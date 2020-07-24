@@ -1,6 +1,6 @@
 # Sonarquebe 7.5 Community - Utilização Rápida
 
-## Manual de utiização
+## Manual de utilização
 
 ### Requerimentos técnicos
 
